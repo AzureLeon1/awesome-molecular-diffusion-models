@@ -29,7 +29,8 @@ To facilitate further understanding and exploration of molecular diffusion model
 **Discrete Data Space**
 
 1. [ICLR 2023] DiGress: Discrete Denoising Diffusion for Graph Generation
-2. [NeurIPS 2024] Graph Diffusion Transformers for Multi-Conditional Molecular Generation
+2. [CIKM 2024] Hierarchical Graph Latent Diffusion Model for Conditional Molecule Generation
+3. [NeurIPS 2024] Graph Diffusion Transformers for Multi-Conditional Molecular Generation
 
 
 
