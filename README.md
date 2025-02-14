@@ -27,6 +27,7 @@ To facilitate further understanding and exploration of molecular diffusion model
   - [Conformer Generation](#conformer-generation)
   - [Molecular Docking](#molecular-docking)
   - [Transition State Generation](#transition-state-generation)
+  - [Retrosynthesis Prediction](#retrosynthesis-prediction)
   - [Molecular Representation Learning](#molecular-representation-learning)
   - [Cite Us](#cite-us)
 
@@ -145,6 +146,12 @@ To facilitate further understanding and exploration of molecular diffusion model
 ## Transition State Generation
 
 1. [Nature Computational Science 2023] Accurate Transition State Generation with an Object-Aware Equivariant Elementary Reaction Diffusion Model
+
+
+
+## Retrosynthesis Prediction
+
+1. [AAAI 2025] GDiffRetro: Retrosynthesis Prediction with Dual Graph Enhanced Molecular Representation and Diffusion Generation
 
 
 
