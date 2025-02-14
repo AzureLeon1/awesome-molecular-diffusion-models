@@ -129,17 +129,18 @@ To facilitate further understanding and exploration of molecular diffusion model
 
 ## Conformer Generation
 
-1. [AAAI 2024] DiSCO: Diffusion Schrödinger Bridge for Molecular Conformer Optimization
-2. [ICLR 2025] NEXT-MOL: 3D Diffusion Meets 1D Language Modeling for 3D Molecule Generation
+1. [ICLR 2022] GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation
+2. [NeurIPS 2022] Torsional Diffusion for Molecular Conformer Generation
+3. [AAAI 2024] DiSCO: Diffusion Schrödinger Bridge for Molecular Conformer Optimization
+4. [ICLR 2025] NEXT-MOL: 3D Diffusion Meets 1D Language Modeling for 3D Molecule Generation
 
 
 
 ## Molecular Docking
 
-1. [ICLR 2022] GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation
-2. [NeurIPS 2022] Torsional Diffusion for Molecular Conformer Generation
-3. [ICLR 2023] DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking
-4. [ICML 2024] Re-Dock: Towards Flexible and Realistic Molecular Docking with Diffusion Bridge
+1. [ICLR 2023] DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking
+2. [Nature Communications 2024] DynamicBind: predicting ligand-specific protein-ligand complex structure with a deep equivariant generative model
+3. [ICML 2024] Re-Dock: Towards Flexible and Realistic Molecular Docking with Diffusion Bridge
 
 
 
