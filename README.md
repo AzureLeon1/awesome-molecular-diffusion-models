@@ -2,7 +2,7 @@
 
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) 
 
-> This is a collection of papers on leveraging **Diffusion Models** in **Molecular Generative Tasks**. It's based on our survey paper: **Diffusion Models for Molecules: A Survey of Methods and Tasks**.
+> This is a collection of papers on leveraging **Diffusion Models** in **Molecular Generative Tasks**. It's based on our survey paper: [Diffusion Models for Molecules: A Survey of Methods and Tasks](https://arxiv.org/pdf/2502.09511).
 
 Diffusion models have emerged as a powerful generative framework with significant applications in molecular science. These models are particularly well-suited for a variety of downstream tasks, including *de novo* molecular generation, molecular optimization, conformer generation, and molecular docking. This approach represents a cutting-edge intersection of AI and molecular science, offering innovative solutions to traditional challenges in molecular design and analysis.
 
