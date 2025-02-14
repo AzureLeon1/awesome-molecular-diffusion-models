@@ -10,7 +10,26 @@ To facilitate further understanding and exploration of molecular diffusion model
 
 *This repository is still a work in progress. If you would like to add other awesome papers, please feel free to create a pull request or contact `liang.wang@cripac.ia.ac.cn` .*
 
-[TOC]
+- [Awesome-Molecular-Diffusion-Models](#awesome-molecular-diffusion-models)
+  - [Surveys](#surveys)
+  - [2D Molecular Geneartion](#2d-molecular-geneartion)
+    - [Continuous Data Space](#continuous-data-space)
+    - [Discrete Data Space](#discrete-data-space)
+  - [3D Molecular Geneartion](#3d-molecular-geneartion)
+    - [Unconditional and Property-based Generation (Inverse Design)](#unconditional-and-property-based-generation-inverse-design)
+    - [Target-based Generation (Structure-based Drug Design)](#target-based-generation-structure-based-drug-design)
+    - [Fragment-based Generation (Fragment-based Drug Design)](#fragment-based-generation-fragment-based-drug-design)
+    - [Composition-based Generation](#composition-based-generation)
+  - [2D\&3D Molecular Geneartion](#2d3d-molecular-geneartion)
+  - [Molecular Optimization](#molecular-optimization)
+    - [Scaffold Hopping or R-group Design](#scaffold-hopping-or-r-group-design)
+    - [Generalized Molecular Optimization](#generalized-molecular-optimization)
+  - [Conformer Generation](#conformer-generation)
+  - [Molecular Docking](#molecular-docking)
+  - [Transition State Generation](#transition-state-generation)
+  - [Molecular Representation Learning](#molecular-representation-learning)
+  - [Cite Us](#cite-us)
+
 
 ## Surveys
 
