@@ -27,7 +27,7 @@ To facilitate further understanding and exploration of molecular diffusion model
   - [Conformer Generation](#conformer-generation)
   - [Molecular Docking](#molecular-docking)
   - [Transition State Generation](#transition-state-generation)
-  - [Retrosynthesis Prediction](#retrosynthesis-prediction)
+  - [Retrosynthesis Prediction and Planning](#retrosynthesis-prediction-and-planning)
   - [Molecular Representation Learning](#molecular-representation-learning)
   - [Cite Us](#cite-us)
 
@@ -150,8 +150,10 @@ To facilitate further understanding and exploration of molecular diffusion model
 
 
 
-## Retrosynthesis Prediction
+## Retrosynthesis Prediction and Planning
 
+1. [arXiv 2024] Alignment is Key for Applying Diffusion Models to Retrosynthesis
+1. [AISTATS 2025] RetroDiff: Retrosynthesis as Multi-stage Distribution Interpolation
 1. [AAAI 2025] GDiffRetro: Retrosynthesis Prediction with Dual Graph Enhanced Molecular Representation and Diffusion Generation
 
 
