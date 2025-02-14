@@ -33,8 +33,9 @@ To facilitate further understanding and exploration of molecular diffusion model
 
 ## Surveys
 
-1. [arXiv 2025] Diffusion Models for Molecules: A Survey of Methods and Tasks [[paper]](https://arxiv.org/pdf/2502.09511)
-2. [arXiv 2022] MolGenSurvey: A Systematic Survey in Machine Learning Models for Molecule Design [[paper]](https://arxiv.org/pdf/2203.14500)
+1. [arXiv 2022] MolGenSurvey: A Systematic Survey in Machine Learning Models for Molecule Design [[paper]](https://arxiv.org/pdf/2203.14500)
+2. [JCIM 2024] Diffusion Models in De Novo Drug Design [[paper]](https://pubs.acs.org/doi/epdf/10.1021/acs.jcim.4c01107?ref=article_openPDF)
+3. [arXiv 2025] Diffusion Models for Molecules: A Survey of Methods and Tasks [[paper]](https://arxiv.org/pdf/2502.09511)
 
 
 
