@@ -10,23 +10,25 @@ To facilitate further understanding and exploration of molecular diffusion model
 
 *This repository is still a work in progress. If you would like to add other awesome papers, please feel free to create a pull request or contact `liang.wang@cripac.ia.ac.cn` .*
 
-### Surveys
+[TOC]
+
+## Surveys
 
 1. [arXiv 2025] Diffusion Models for Molecules: A Survey of Methods and Tasks [[paper]](https://arxiv.org/pdf/2502.09511)
 2. [arXiv 2022] MolGenSurvey: A Systematic Survey in Machine Learning Models for Molecule Design [[paper]](https://arxiv.org/pdf/2203.14500)
 
 
 
-### 2D Molecular Geneartion
+## 2D Molecular Geneartion
 
-**Continuous Data Space**
+### Continuous Data Space
 
 1. [ICML 2022] Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations
 2. [AAAI 2023] Conditional Diffusion Based on Discrete Graph Structures for Molecular Graph Generation
 3. [ICML 2023] Exploring Chemical Space with Score-based Out-of-distribution Generation
 4. [ICML 2024] Context-Guided Diffusion for Out-of-Distribution Molecular and Protein Design
 
-**Discrete Data Space**
+### Discrete Data Space
 
 1. [ICLR 2023] DiGress: Discrete Denoising Diffusion for Graph Generation
 2. [CIKM 2024] Hierarchical Graph Latent Diffusion Model for Conditional Molecule Generation
@@ -34,9 +36,9 @@ To facilitate further understanding and exploration of molecular diffusion model
 
 
 
-### 3D Molecular Geneartion
+## 3D Molecular Geneartion
 
-**Unconditional and Property-based Generation (Inverse Design)**
+### Unconditional and Property-based Generation (Inverse Design)
 
 1. [ICML 2022] Equivariant Diffusion for Molecule Generation in 3D
 1. [NeurIPS 2022] Diffusion-based Molecule Generation with Informative Prior Bridges
@@ -56,7 +58,7 @@ To facilitate further understanding and exploration of molecular diffusion model
 1. [ICLR 2024] Navigating the Design Space of Equivariant Diffusion-Based Generative Models for De Novo 3D Molecule Generation
 1. [ICLR 2025] NEXT-MOL: 3D Diffusion Meets 1D Language Modeling for 3D Molecule Generation
 
-**Target-based Generation (Structure-based Drug Design)**
+### Target-based Generation (Structure-based Drug Design)
 
 1. [ICLR 2023] 3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction
 2. [Nature Computational Science 2024] Structure-based drug design with equivariant diffusion models
@@ -70,17 +72,17 @@ To facilitate further understanding and exploration of molecular diffusion model
 10. [ICLR 2024] Protein-Ligand Interaction Prior for Binding-aware 3D Molecule Diffusion Models
 11. [ICLR 2024] Navigating the Design Space of Equivariant Diffusion-Based Generative Models for De Novo 3D Molecule Generation
 
-**Fragment-based Generation (Fragment-based Drug Design)**
+### Fragment-based Generation (Fragment-based Drug Design)
 
 1. [Nature Machine Intelligence 2024] Equivariant 3D-conditional diffusion model for molecular linker design
 
-**Composition-based Generation**
+### Composition-based Generation
 
 1. [ICLR 2024] Scalable Diffusion for Materials Generation
 
 
 
-### 2D\&3D Molecular Geneartion
+## 2D\&3D Molecular Geneartion
 
 1. [ICML 2023] MolDiff: Addressing the Atom-Bond Inconsistency Problem in 3D Molecule Diffusion Generation
 2. [ECML 2023] MiDi: Mixed Graph and 3D Denoising Diffusion for Molecule Generation
@@ -89,29 +91,29 @@ To facilitate further understanding and exploration of molecular diffusion model
 
 
 
-### Molecular Optimization
+## Molecular Optimization
 
-**Scaffold Hopping or R-group Design**
+### Scaffold Hopping or R-group Design
 
 1. [arXiv 2023] DiffHopp: A Graph Diffusion Model for Novel Drug Design via Scaffold Hopping
 2. [NeurIPS 2023] TurboHopp: Accelerated Molecule Scaffold Hopping with Consistency Models
 3. [Nature Communications 2024] A dual diffusion model enables 3D molecule generation and lead optimization based on target pockets
 4. [ICLR 2024] DecompOpt: Controllable and Decomposed Diffusion Models for Structure-based Molecular Optimization
 
-**Generalized Molecular Optimization**
+### Generalized Molecular Optimization
 
 1. [Nature Computational Science 2024] Structure-based drug design with equivariant diffusion models
 
 
 
-### Conformer Generation
+## Conformer Generation
 
 1. [AAAI 2024] DiSCO: Diffusion Schrödinger Bridge for Molecular Conformer Optimization
 2. [ICLR 2025] NEXT-MOL: 3D Diffusion Meets 1D Language Modeling for 3D Molecule Generation
 
 
 
-### Molecular Docking
+## Molecular Docking
 
 1. [ICLR 2022] GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation
 2. [NeurIPS 2022] Torsional Diffusion for Molecular Conformer Generation
@@ -120,13 +122,13 @@ To facilitate further understanding and exploration of molecular diffusion model
 
 
 
-### Transition State Generation
+## Transition State Generation
 
 1. [Nature Computational Science 2023] Accurate Transition State Generation with an Object-Aware Equivariant Elementary Reaction Diffusion Model
 
 
 
-### Molecular Representation Learning
+## Molecular Representation Learning
 
 1. [ICML 2023] A Group Symmetric Stochastic Differential Equation Model for Molecule Multi-modal Pretraining
 2. [NeurIPS 2024] SubGDiff: A Subgraph Diffusion Model to Improve Molecular Representation Learning
