@@ -12,15 +12,15 @@ To facilitate further understanding and exploration of molecular diffusion model
 
 - [Awesome-Molecular-Diffusion-Models](#awesome-molecular-diffusion-models)
   - [Surveys](#surveys)
-  - [2D Molecular Geneartion](#2d-molecular-geneartion)
+  - [2D Molecular Generation](#2d-molecular-generation)
     - [Continuous Data Space](#continuous-data-space)
     - [Discrete Data Space](#discrete-data-space)
-  - [3D Molecular Geneartion](#3d-molecular-geneartion)
+  - [3D Molecular Generation](#3d-molecular-generation)
     - [Unconditional and Property-based Generation (Inverse Design)](#unconditional-and-property-based-generation-inverse-design)
     - [Target-based Generation (Structure-based Drug Design)](#target-based-generation-structure-based-drug-design)
     - [Fragment-based Generation (Fragment-based Drug Design)](#fragment-based-generation-fragment-based-drug-design)
     - [Composition-based Generation](#composition-based-generation)
-  - [2D\&3D Molecular Geneartion](#2d3d-molecular-geneartion)
+  - [2D\&3D Molecular Generation](#2d3d-molecular-generation)
   - [Molecular Optimization](#molecular-optimization)
     - [Scaffold Hopping or R-group Design](#scaffold-hopping-or-r-group-design)
     - [Generalized Molecular Optimization](#generalized-molecular-optimization)
@@ -40,7 +40,7 @@ To facilitate further understanding and exploration of molecular diffusion model
 
 
 
-## 2D Molecular Geneartion
+## 2D Molecular Generation
 
 ### Continuous Data Space
 
@@ -57,7 +57,7 @@ To facilitate further understanding and exploration of molecular diffusion model
 
 
 
-## 3D Molecular Geneartion
+## 3D Molecular Generation
 
 ### Unconditional and Property-based Generation (Inverse Design)
 
@@ -103,7 +103,7 @@ To facilitate further understanding and exploration of molecular diffusion model
 
 
 
-## 2D\&3D Molecular Geneartion
+## 2D\&3D Molecular Generation
 
 1. [ICML 2023] MolDiff: Addressing the Atom-Bond Inconsistency Problem in 3D Molecule Diffusion Generation
 2. [ECML 2023] MiDi: Mixed Graph and 3D Denoising Diffusion for Molecule Generation
