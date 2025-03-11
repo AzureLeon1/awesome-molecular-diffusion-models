@@ -44,10 +44,10 @@ To facilitate further understanding and exploration of molecular diffusion model
 
 ### Continuous Data Space
 
-1. [<span style="color:#FF5733">GDSS</span>, <span style="color:#33C1FF">ICML 2022</span>] Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations
-2. [<span style="color:#FF5733">CDGS</span>, <span style="color:#33C1FF">AAAI 2023</span>] Conditional Diffusion Based on Discrete Graph Structures for Molecular Graph Generation
-3. [<span style="color:#FF5733">MOOD</span>, <span style="color:#33C1FF">ICML 2023</span>] Exploring Chemical Space with Score-based Out-of-distribution Generation
-4. [<span style="color:#FF5733">CGD</span>, <span style="color:#33C1FF">ICML 2024</span>] Context-Guided Diffusion for Out-of-Distribution Molecular and Protein Design
+1. [**GDSS**, *ICML 2022*] Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations
+2. [**CDGS**, *AAAI 2023*] Conditional Diffusion Based on Discrete Graph Structures for Molecular Graph Generation
+3. [**MOOD**, *ICML 2023*] Exploring Chemical Space with Score-based Out-of-distribution Generation
+4. [**CGD**, *ICML 2024*] Context-Guided Diffusion for Out-of-Distribution Molecular and Protein Design
 
 
 ### Discrete Data Space
