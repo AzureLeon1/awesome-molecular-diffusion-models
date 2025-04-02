@@ -72,44 +72,44 @@ To facilitate further understanding and exploration of molecular diffusion model
 8. [**GaUDI**, *Nature Computational Science 2023*] Guided diffusion for inverse molecular design [[paper]](https://www.nature.com/articles/s43588-023-00532-0) [[code]](https://gitlab.com/porannegroup/gaudi.)
 9. [**SiMGen**, *arXiv 2024*] Zero Shot Molecular Generation via Similarity Kernels [[paper]](https://arxiv.org/pdf/2402.08708) [[code]](https://github.com/RokasEl/simgen)
 10. [**ControlMol**, *arXiv 2024*] ControlMol: Adding Substructure Control To Molecule Diffusion Models [[paper]](https://arxiv.org/pdf/2405.06659)
-11. [**LDM-3DG**, *ICLR 2024*] Latent 3D Graph Diffusion [paper]](https://openreview.net/pdf?id=cXbnGtO0NZ) [[code]](https://github.com/Shen-Lab/LDM-3DG)
-12. [**CGD**, *ICML 2024*] Context-Guided Diffusion for Out-of-Distribution Molecular and Protein Design [paper]](https://arxiv.org/pdf/2407.11942) [[code]](https://github.com/leojklarner/context-guided-diffusion)
-13. [**END**, *NeurIPS 2024*] Equivariant Neural Diffusion for Molecule Generation [paper]](https://openreview.net/pdf?id=40pE5pFhWl) [[code]](https://github.com/frcnt/equivariant-neural-diffusion)
-14. [**GFMDiff**, *AAAI 2024*] Geometric-Facilitated Denoising Diffusion Model for 3D Molecule Generation [paper]](https://arxiv.org/pdf/2401.02683) 
-15. [**MuDM**, *ICLR 2024*] Training-free Multi-objective Diffusion Model for 3D Molecule Generation [paper]](https://openreview.net/pdf?id=X41c4uB4k0)
-16. [**EQGAT-diff**, *ICLR 2024*] Navigating the Design Space of Equivariant Diffusion-Based Generative Models for De Novo 3D Molecule Generation [paper]](https://arxiv.org/pdf/2309.17296)
-17. [**NExT-Mol**, *ICLR 2025*] NExT-Mol: 3D Diffusion Meets 1D Language Modeling for 3D Molecule Generation [paper]](https://arxiv.org/pdf/2502.12638) [[code]](https://github.com/acharkq/NExT-Mol)
+11. [**LDM-3DG**, *ICLR 2024*] Latent 3D Graph Diffusion [[paper]](https://openreview.net/pdf?id=cXbnGtO0NZ) [[code]](https://github.com/Shen-Lab/LDM-3DG)
+12. [**CGD**, *ICML 2024*] Context-Guided Diffusion for Out-of-Distribution Molecular and Protein Design [[paper]](https://arxiv.org/pdf/2407.11942) [[code]](https://github.com/leojklarner/context-guided-diffusion)
+13. [**END**, *NeurIPS 2024*] Equivariant Neural Diffusion for Molecule Generation [[paper]](https://openreview.net/pdf?id=40pE5pFhWl) [[code]](https://github.com/frcnt/equivariant-neural-diffusion)
+14. [**GFMDiff**, *AAAI 2024*] Geometric-Facilitated Denoising Diffusion Model for 3D Molecule Generation [[paper]](https://arxiv.org/pdf/2401.02683) 
+15. [**MuDM**, *ICLR 2024*] Training-free Multi-objective Diffusion Model for 3D Molecule Generation [[paper]](https://openreview.net/pdf?id=X41c4uB4k0)
+16. [**EQGAT-diff**, *ICLR 2024*] Navigating the Design Space of Equivariant Diffusion-Based Generative Models for De Novo 3D Molecule Generation [[paper]](https://arxiv.org/pdf/2309.17296)
+17. [**NExT-Mol**, *ICLR 2025*] NExT-Mol: 3D Diffusion Meets 1D Language Modeling for 3D Molecule Generation [[paper]](https://arxiv.org/pdf/2502.12638) [[code]](https://github.com/acharkq/NExT-Mol)
 
 ### Target-based Generation (Structure-based Drug Design)
 
-1. [**TargetDiff**, *ICLR 2023*] 3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction [paper]](https://arxiv.org/pdf/2303.03543) [[code]](https://github.com/guanjq/targetdiff)
-2. [**DiffSBDD**, *Nature Computational Science 2024*] Structure-based drug design with equivariant diffusion models [paper]](https://arxiv.org/pdf/2210.13695) [[code]](https://github.com/arneschneuing/DiffSBDD)
-3. [**DecompDiff**, *ICML 2023*] DecompDiff: Diffusion Models with Decomposed Priors for Structure-Based Drug Design [paper]](https://arxiv.org/pdf/2403.07902) [[code]](https://github.com/bytedance/DecompDiff)
-4. [**SBE-Diff**, *ICML 2024*] Rethinking specificity in SBDD: Leveraging delta score and energy-guided diffusion [paper]](https://arxiv.org/pdf/2403.12987)
-5. [**LDM-3DG**, *ICLR 2024*] Latent 3D Graph Diffusion [paper]](https://openreview.net/pdf?id=cXbnGtO0NZ) [[code]](https://github.com/Shen-Lab/LDM-3DG)
-6. [**PMDM**, *Nature Communications 2024*] A dual diffusion model enables 3D molecule generation and lead optimization based on target pockets [paper]](https://www.nature.com/articles/s41467-024-46569-1) [[code]](https://github.com/Layne-Huang/PMDM?tab=readme-ov-file#pmdm-a-dual-diffusion-model-enables-3d-binding-bioactive-molecule-generation-and-lead-optimization-given-target-pockets)
-7. [**BindDM**, *AAAI 2024*] Binding-Adaptive Diffusion Models for Structure-Based Drug Design [paper]](https://arxiv.org/pdf/2402.18583) [[code]](https://github.com/YangLing0818/BindDM)
-8. [**IRDiff**, *ICML 2024*] Interaction-based Retrieval-augmented Diffusion Models for Protein-specific 3D Molecule Generation [paper]](https://openreview.net/pdf?id=eejhD9FCP3) [[code]](https://github.com/YangLing0818/IRDiff)
-9. [**AliDiff**, *NeurIPS 2024*] Aligning Target-Aware Molecule Diffusion Models with Exact Energy Optimization [paper]](https://arxiv.org/pdf/2407.01648) [[code]](https://github.com/MinkaiXu/AliDiff)
-10. [**IPDiff**, *ICLR 2024*] Protein-Ligand Interaction Prior for Binding-aware 3D Molecule Diffusion Models [paper]](https://openreview.net/pdf?id=qH9nrMNTIW) [[code]](https://github.com/YangLing0818/IPDiff?tab=readme-ov-file)
-11. [**EQGAT-diff**, *ICLR 2024*] Navigating the Design Space of Equivariant Diffusion-Based Generative Models for De Novo 3D Molecule Generation [paper]](https://arxiv.org/pdf/2309.17296)
+1. [**TargetDiff**, *ICLR 2023*] 3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction [[paper]](https://arxiv.org/pdf/2303.03543) [[code]](https://github.com/guanjq/targetdiff)
+2. [**DiffSBDD**, *Nature Computational Science 2024*] Structure-based drug design with equivariant diffusion models [[paper]](https://arxiv.org/pdf/2210.13695) [[code]](https://github.com/arneschneuing/DiffSBDD)
+3. [**DecompDiff**, *ICML 2023*] DecompDiff: Diffusion Models with Decomposed Priors for Structure-Based Drug Design [[paper]](https://arxiv.org/pdf/2403.07902) [[code]](https://github.com/bytedance/DecompDiff)
+4. [**SBE-Diff**, *ICML 2024*] Rethinking specificity in SBDD: Leveraging delta score and energy-guided diffusion [[paper]](https://arxiv.org/pdf/2403.12987)
+5. [**LDM-3DG**, *ICLR 2024*] Latent 3D Graph Diffusion [[paper]](https://openreview.net/pdf?id=cXbnGtO0NZ) [[code]](https://github.com/Shen-Lab/LDM-3DG)
+6. [**PMDM**, *Nature Communications 2024*] A dual diffusion model enables 3D molecule generation and lead optimization based on target pockets [[paper]](https://www.nature.com/articles/s41467-024-46569-1) [[code]](https://github.com/Layne-Huang/PMDM?tab=readme-ov-file#pmdm-a-dual-diffusion-model-enables-3d-binding-bioactive-molecule-generation-and-lead-optimization-given-target-pockets)
+7. [**BindDM**, *AAAI 2024*] Binding-Adaptive Diffusion Models for Structure-Based Drug Design [[paper]](https://arxiv.org/pdf/2402.18583) [[code]](https://github.com/YangLing0818/BindDM)
+8. [**IRDiff**, *ICML 2024*] Interaction-based Retrieval-augmented Diffusion Models for Protein-specific 3D Molecule Generation [[paper]](https://openreview.net/pdf?id=eejhD9FCP3) [[code]](https://github.com/YangLing0818/IRDiff)
+9. [**AliDiff**, *NeurIPS 2024*] Aligning Target-Aware Molecule Diffusion Models with Exact Energy Optimization [[paper]](https://arxiv.org/pdf/2407.01648) [[code]](https://github.com/MinkaiXu/AliDiff)
+10. [**IPDiff**, *ICLR 2024*] Protein-Ligand Interaction Prior for Binding-aware 3D Molecule Diffusion Models [[paper]](https://openreview.net/pdf?id=qH9nrMNTIW) [[code]](https://github.com/YangLing0818/IPDiff?tab=readme-ov-file)
+11. [**EQGAT-diff**, *ICLR 2024*] Navigating the Design Space of Equivariant Diffusion-Based Generative Models for De Novo 3D Molecule Generation [[paper]](https://arxiv.org/pdf/2309.17296)
 
 ### Fragment-based Generation (Fragment-based Drug Design)
 
-1. [**DiffLinker**, *Nature Machine Intelligence 2024*] Equivariant 3D-conditional diffusion model for molecular linker design [paper]](https://arxiv.org/pdf/2210.05274) [[code]](https://github.com/igashov/DiffLinker)
+1. [**DiffLinker**, *Nature Machine Intelligence 2024*] Equivariant 3D-conditional diffusion model for molecular linker design [[paper]](https://arxiv.org/pdf/2210.05274) [[code]](https://github.com/igashov/DiffLinker)
 
 ### Composition-based Generation
 
-1. [**UniMat**, *ICLR 2024*] Scalable Diffusion for Materials Generation [paper]](https://arxiv.org/pdf/2311.09235)
+1. [**UniMat**, *ICLR 2024*] Scalable Diffusion for Materials Generation [[paper]](https://arxiv.org/pdf/2311.09235)
 
 
 
 ## 2D\&3D Molecular Generation
 
-1. [**MolDiff**, *ICML 2023*] MolDiff: Addressing the Atom-Bond Inconsistency Problem in 3D Molecule Diffusion Generation [paper]](https://arxiv.org/pdf/2305.07508) [[code]](https://github.com/pengxingang/MolDiff)
-2. [**MiDi**, *ECML 2023*] MiDi: Mixed Graph and 3D Denoising Diffusion for Molecule Generation [paper]](https://arxiv.org/pdf/2302.09048) [[code]](https://github.com/cvignac/MiDi)
-3. [**JODO**, *TNNLS 2024*] Learning Joint 2-D and 3-D Graph Diffusion Models for Complete Molecule Generation [paper]](https://arxiv.org/pdf/2305.12347) [[code]](https://github.com/GRAPH-0/JODO)
-4. [**MUDiff**, *LoG 2023*] MUDiff: Unified Diffusion for Complete Molecule Generation [paper]](https://arxiv.org/pdf/2304.14621) [[code]](https://github.com/WillHua127/mudiff)
+1. [**MolDiff**, *ICML 2023*] MolDiff: Addressing the Atom-Bond Inconsistency Problem in 3D Molecule Diffusion Generation [[paper]](https://arxiv.org/pdf/2305.07508) [[code]](https://github.com/pengxingang/MolDiff)
+2. [**MiDi**, *ECML 2023*] MiDi: Mixed Graph and 3D Denoising Diffusion for Molecule Generation [[paper]](https://arxiv.org/pdf/2302.09048) [[code]](https://github.com/cvignac/MiDi)
+3. [**JODO**, *TNNLS 2024*] Learning Joint 2-D and 3-D Graph Diffusion Models for Complete Molecule Generation [[paper]](https://arxiv.org/pdf/2305.12347) [[code]](https://github.com/GRAPH-0/JODO)
+4. [**MUDiff**, *LoG 2023*] MUDiff: Unified Diffusion for Complete Molecule Generation [[paper]](https://arxiv.org/pdf/2304.14621) [[code]](https://github.com/WillHua127/mudiff)
 
 
 
@@ -117,52 +117,52 @@ To facilitate further understanding and exploration of molecular diffusion model
 
 ### Scaffold Hopping or R-group Design
 
-1. [**DiffHopp**, *arXiv 2023*] DiffHopp: A Graph Diffusion Model for Novel Drug Design via Scaffold Hopping [paper]](https://arxiv.org/pdf/2308.07416) [[code]](https://github.com/jostorge/diffusion-hopping)
-2. [**TurboHopp**, *NeurIPS 2023*] TurboHopp: Accelerated Molecule Scaffold Hopping with Consistency Models [paper]](https://arxiv.org/pdf/2410.20660) [[code]](https://github.com/orgw/TurboHopp)
-3. [**PMDM**, *Nature Communications 2024*] A dual diffusion model enables 3D molecule generation and lead optimization based on target pockets [paper]](https://www.nature.com/articles/s41467-024-46569-1) [[code]](https://github.com/Layne-Huang/PMDM)
-4. [**DecompOpt**, *ICLR 2024*] DecompOpt: Controllable and Decomposed Diffusion Models for Structure-based Molecular Optimization [paper]](https://arxiv.org/pdf/2403.13829) [[code]](https://github.com/bytedance/DecompOpt)
+1. [**DiffHopp**, *arXiv 2023*] DiffHopp: A Graph Diffusion Model for Novel Drug Design via Scaffold Hopping [[paper]](https://arxiv.org/pdf/2308.07416) [[code]](https://github.com/jostorge/diffusion-hopping)
+2. [**TurboHopp**, *NeurIPS 2023*] TurboHopp: Accelerated Molecule Scaffold Hopping with Consistency Models [[paper]](https://arxiv.org/pdf/2410.20660) [[code]](https://github.com/orgw/TurboHopp)
+3. [**PMDM**, *Nature Communications 2024*] A dual diffusion model enables 3D molecule generation and lead optimization based on target pockets [[paper]](https://www.nature.com/articles/s41467-024-46569-1) [[code]](https://github.com/Layne-Huang/PMDM)
+4. [**DecompOpt**, *ICLR 2024*] DecompOpt: Controllable and Decomposed Diffusion Models for Structure-based Molecular Optimization [[paper]](https://arxiv.org/pdf/2403.13829) [[code]](https://github.com/bytedance/DecompOpt)
 
 ### Generalized Molecular Optimization
 
-1. [**DiffSBDD**, *Nature Computational Science 2024*] Structure-based drug design with equivariant diffusion models [paper]](https://arxiv.org/pdf/2210.13695) [[code]](https://github.com/arneschneuing/DiffSBDD)
+1. [**DiffSBDD**, *Nature Computational Science 2024*] Structure-based drug design with equivariant diffusion models [[paper]](https://arxiv.org/pdf/2210.13695) [[code]](https://github.com/arneschneuing/DiffSBDD)
 
 
 ## Conformer Generation
 
-1. [**GeoDiff**, *ICLR 2022*] GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation [paper]](https://arxiv.org/pdf/2203.02923) [[code]](https://github.com/MinkaiXu/GeoDiff)
-2. [**Torsional Diffusion**, *NeurIPS 2022*] Torsional Diffusion for Molecular Conformer Generation [paper]](https://arxiv.org/pdf/2206.01729) [[code]](https://github.com/gcorso/torsional-diffusion)
-3. [**DiSCO**, *AAAI 2024*] DiSCO: Diffusion Schrödinger Bridge for Molecular Conformer Optimization [paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29238) [[code]](https://github.com/eugenebang/DiSCO_repo)
-4. [**NExT-Mol**, *ICLR 2025*] NExT-Mol: 3D Diffusion Meets 1D Language Modeling for 3D Molecule Generation [paper]](https://arxiv.org/pdf/2502.12638) [[code]](https://github.com/acharkq/NExT-Mol)
+1. [**GeoDiff**, *ICLR 2022*] GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation [[paper]](https://arxiv.org/pdf/2203.02923) [[code]](https://github.com/MinkaiXu/GeoDiff)
+2. [**Torsional Diffusion**, *NeurIPS 2022*] Torsional Diffusion for Molecular Conformer Generation [[paper]](https://arxiv.org/pdf/2206.01729) [[code]](https://github.com/gcorso/torsional-diffusion)
+3. [**DiSCO**, *AAAI 2024*] DiSCO: Diffusion Schrödinger Bridge for Molecular Conformer Optimization [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29238) [[code]](https://github.com/eugenebang/DiSCO_repo)
+4. [**NExT-Mol**, *ICLR 2025*] NExT-Mol: 3D Diffusion Meets 1D Language Modeling for 3D Molecule Generation [[paper]](https://arxiv.org/pdf/2502.12638) [[code]](https://github.com/acharkq/NExT-Mol)
 
 
 
 ## Molecular Docking
 
-1. [**DiffDock**, *ICLR 2023*] DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking [paper]](https://arxiv.org/pdf/2210.01776) [[code]](https://github.com/gcorso/DiffDock)
-2. [**DynamicBind**, *Nature Communications 2024*] DynamicBind: predicting ligand-specific protein-ligand complex structure with a deep equivariant generative model [paper]](https://www.nature.com/articles/s41467-024-45461-2) [[code]](https://github.com/luwei0917/DynamicBind)
-3. [**Re-Dock**, *ICML 2024*] Re-Dock: Towards Flexible and Realistic Molecular Docking with Diffusion Bridge [paper]](https://arxiv.org/pdf/2402.11459)
+1. [**DiffDock**, *ICLR 2023*] DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking [[paper]](https://arxiv.org/pdf/2210.01776) [[code]](https://github.com/gcorso/DiffDock)
+2. [**DynamicBind**, *Nature Communications 2024*] DynamicBind: predicting ligand-specific protein-ligand complex structure with a deep equivariant generative model [[paper]](https://www.nature.com/articles/s41467-024-45461-2) [[code]](https://github.com/luwei0917/DynamicBind)
+3. [**Re-Dock**, *ICML 2024*] Re-Dock: Towards Flexible and Realistic Molecular Docking with Diffusion Bridge [[paper]](https://arxiv.org/pdf/2402.11459)
 
 
 
 ## Transition State Generation
 
-1. [**OA-ReactDiff**, *Nature Computational Science 2023*] Accurate Transition State Generation with an Object-Aware Equivariant Elementary Reaction Diffusion Model [paper]](https://arxiv.org/pdf/2304.06174) [[code]](https://github.com/chenruduan/OAReactDiff)
+1. [**OA-ReactDiff**, *Nature Computational Science 2023*] Accurate Transition State Generation with an Object-Aware Equivariant Elementary Reaction Diffusion Model [[paper]](https://arxiv.org/pdf/2304.06174) [[code]](https://github.com/chenruduan/OAReactDiff)
 
 
 
 ## Retrosynthesis Prediction and Planning
 
-1. [**DiffAlign**, *arXiv 2024*] Alignment is Key for Applying Diffusion Models to Retrosynthesis [paper]](https://arxiv.org/pdf/2405.17656)
-1. [**RetroDiff**, *AISTATS 2025*] RetroDiff: Retrosynthesis as Multi-stage Distribution Interpolation [paper]](https://arxiv.org/pdf/2311.14077)
-1. [**GDiffRetro**, *AAAI 2025*] GDiffRetro: Retrosynthesis Prediction with Dual Graph Enhanced Molecular Representation and Diffusion Generation [paper]](https://arxiv.org/pdf/2501.08001) [[code]](https://github.com/sunshy-1/GDiffRetro)
+1. [**DiffAlign**, *arXiv 2024*] Alignment is Key for Applying Diffusion Models to Retrosynthesis [[paper]](https://arxiv.org/pdf/2405.17656)
+1. [**RetroDiff**, *AISTATS 2025*] RetroDiff: Retrosynthesis as Multi-stage Distribution Interpolation [[paper]](https://arxiv.org/pdf/2311.14077)
+1. [**GDiffRetro**, *AAAI 2025*] GDiffRetro: Retrosynthesis Prediction with Dual Graph Enhanced Molecular Representation and Diffusion Generation [[paper]](https://arxiv.org/pdf/2501.08001) [[code]](https://github.com/sunshy-1/GDiffRetro)
 
 
 
 ## Molecular Representation Learning
 
-1. [**MoleculeSDE**, *ICML 2023*] A Group Symmetric Stochastic Differential Equation Model for Molecule Multi-modal Pretraining [paper]](https://arxiv.org/pdf/2305.18407) [[code]](https://github.com/chao1224/MoleculeSDE)
-2. [**SubGDiff**, *NeurIPS 2024*] SubGDiff: A Subgraph Diffusion Model to Improve Molecular Representation Learning [paper]](https://arxiv.org/pdf/2405.05665) [[code]](https://github.com/IDEA-XL/SubgDiff)
-3. [**UniGEM**, *ICLR 2025*] UniGEM: A Unified Approach to Generation and Property Prediction for Molecules [paper]](https://arxiv.org/pdf/2410.10516) [[code]](https://github.com/fengshikun/UniGEM)
+1. [**MoleculeSDE**, *ICML 2023*] A Group Symmetric Stochastic Differential Equation Model for Molecule Multi-modal Pretraining [[paper]](https://arxiv.org/pdf/2305.18407) [[code]](https://github.com/chao1224/MoleculeSDE)
+2. [**SubGDiff**, *NeurIPS 2024*] SubGDiff: A Subgraph Diffusion Model to Improve Molecular Representation Learning [[paper]](https://arxiv.org/pdf/2405.05665) [[code]](https://github.com/IDEA-XL/SubgDiff)
+3. [**UniGEM**, *ICLR 2025*] UniGEM: A Unified Approach to Generation and Property Prediction for Molecules [[paper]](https://arxiv.org/pdf/2410.10516) [[code]](https://github.com/fengshikun/UniGEM)
 
 
 
