@@ -131,8 +131,9 @@ To facilitate further understanding and exploration of molecular diffusion model
 
 1. [**GeoDiff**, *ICLR 2022*] GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation [[paper]](https://arxiv.org/pdf/2203.02923) [[code]](https://github.com/MinkaiXu/GeoDiff)
 2. [**Torsional Diffusion**, *NeurIPS 2022*] Torsional Diffusion for Molecular Conformer Generation [[paper]](https://arxiv.org/pdf/2206.01729) [[code]](https://github.com/gcorso/torsional-diffusion)
-3. [**DiSCO**, *AAAI 2024*] DiSCO: Diffusion Schrödinger Bridge for Molecular Conformer Optimization [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29238) [[code]](https://github.com/eugenebang/DiSCO_repo)
-4. [**NExT-Mol**, *ICLR 2025*] NExT-Mol: 3D Diffusion Meets 1D Language Modeling for 3D Molecule Generation [[paper]](https://arxiv.org/pdf/2502.12638) [[code]](https://github.com/acharkq/NExT-Mol)
+3. [**DiSCO**, *AAAI 2024*] DiSCO: Diffusion Schrödinger Bridge for Molecular Conformer Optimization [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29238) [[code]](https://github.com/DanyeongLee/DiSCO)
+4. [**MCF**, *ICML 2024*] Swallowing the Bitter Pill: Simplified Scalable Conformer Generation [[paper]](https://arxiv.org/pdf/2311.17932) [[code]](https://github.com/apple/ml-mcf)
+5. [**NExT-Mol**, *ICLR 2025*] NExT-Mol: 3D Diffusion Meets 1D Language Modeling for 3D Molecule Generation [[paper]](https://arxiv.org/pdf/2502.12638) [[code]](https://github.com/acharkq/NExT-Mol)
 
 
 
@@ -146,7 +147,7 @@ To facilitate further understanding and exploration of molecular diffusion model
 
 ## Transition State Generation
 
-1. [**OA-ReactDiff**, *Nature Computational Science 2023*] Accurate Transition State Generation with an Object-Aware Equivariant Elementary Reaction Diffusion Model [[paper]](https://arxiv.org/pdf/2304.06174) [[code]](https://github.com/chenruduan/OAReactDiff)
+1. [**OA-ReactDiff**, *Nature Computational Science 2023*] Accurate Transition State Generation with an Object-Aware Equivariant Elementary Reaction Diffusion Model [[paper]](https://www.nature.com/articles/s43588-023-00563-7) [[code]](https://github.com/chenruduan/OAReactDiff)
 
 
 
