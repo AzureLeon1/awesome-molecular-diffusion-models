@@ -48,6 +48,7 @@ To facilitate further understanding and exploration of molecular diffusion model
 2. [**CDGS**, *AAAI 2023*] Conditional Diffusion Based on Discrete Graph Structures for Molecular Graph Generation [[paper]](https://arxiv.org/pdf/2301.00427) [[code]](https://github.com/GRAPH-0/CDGS)
 3. [**MOOD**, *ICML 2023*] Exploring Chemical Space with Score-based Out-of-distribution Generation [[paper]](https://arxiv.org/pdf/2206.07632) [[code]](https://github.com/SeulLee05/MOOD)
 4. [**CGD**, *ICML 2024*] Context-Guided Diffusion for Out-of-Distribution Molecular and Protein Design [[paper]](https://arxiv.org/pdf/2407.11942) [[code]](https://github.com/leojklarner/context-guided-diffusion)
+5. [**GruM**, *ICML 2024*] Graph Generation with Diffusion Mixture [[paper]](https://arxiv.org/pdf/2302.03596) [[code]](https://github.com/harryjo97/GruM)
 
 
 ### Discrete Data Space
@@ -55,6 +56,8 @@ To facilitate further understanding and exploration of molecular diffusion model
 1. [**DiGress**, *ICLR 2023*] DiGress: Discrete Denoising Diffusion for Graph Generation [[paper]](https://arxiv.org/pdf/2209.14734) [[code]](https://github.com/cvignac/DiGress)
 2. [**HGLDM**, *CIKM 2024*] Hierarchical Graph Latent Diffusion Model for Conditional Molecule Generation [[paper]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679547) 
 3. [**Graph DiT**, *NeurIPS 2024*] Graph Diffusion Transformers for Multi-Conditional Molecular Generation [[paper]](https://arxiv.org/pdf/2401.13858) [[code]](https://github.com/liugangcode/Graph-DiT)
+4. [**GBD**, *ICLR 2025*] Advancing Graph Generation through Beta Diffusion [[paper]](https://openreview.net/pdf?id=x1An5a3U9I) [[code]](https://github.com/xinyangATK/GraphBetaDiffusion)
+5. [**EDM-SyCo**, *ICLR 2025*] Lift Your Molecules: Molecular Graph Generation in Latent Euclidean Space [[paper]](https://openreview.net/pdf?id=uNomADvF3s) [[code]](https://github.com/ketatam/SyCo)
 
 
 
@@ -75,10 +78,13 @@ To facilitate further understanding and exploration of molecular diffusion model
 11. [**LDM-3DG**, *ICLR 2024*] Latent 3D Graph Diffusion [[paper]](https://openreview.net/pdf?id=cXbnGtO0NZ) [[code]](https://github.com/Shen-Lab/LDM-3DG)
 12. [**CGD**, *ICML 2024*] Context-Guided Diffusion for Out-of-Distribution Molecular and Protein Design [[paper]](https://arxiv.org/pdf/2407.11942) [[code]](https://github.com/leojklarner/context-guided-diffusion)
 13. [**END**, *NeurIPS 2024*] Equivariant Neural Diffusion for Molecule Generation [[paper]](https://openreview.net/pdf?id=40pE5pFhWl) [[code]](https://github.com/frcnt/equivariant-neural-diffusion)
-14. [**GFMDiff**, *AAAI 2024*] Geometric-Facilitated Denoising Diffusion Model for 3D Molecule Generation [[paper]](https://arxiv.org/pdf/2401.02683) 
+14. [**GFMDiff**, *AAAI 2024*] Geometric-Facilitated Denoising Diffusion Model for 3D Molecule Generation [[paper]](https://arxiv.org/pdf/2401.02683)
 15. [**MuDM**, *ICLR 2024*] Training-free Multi-objective Diffusion Model for 3D Molecule Generation [[paper]](https://openreview.net/pdf?id=X41c4uB4k0)
 16. [**EQGAT-diff**, *ICLR 2024*] Navigating the Design Space of Equivariant Diffusion-Based Generative Models for De Novo 3D Molecule Generation [[paper]](https://arxiv.org/pdf/2309.17296)
-17. [**NExT-Mol**, *ICLR 2025*] NExT-Mol: 3D Diffusion Meets 1D Language Modeling for 3D Molecule Generation [[paper]](https://arxiv.org/pdf/2502.12638) [[code]](https://github.com/acharkq/NExT-Mol)
+17. [**GruM**, *ICML 2024*] Graph Generation with Diffusion Mixture [[paper]](https://arxiv.org/pdf/2302.03596) [[code]](https://github.com/harryjo97/GruM)
+18. [**NExT-Mol**, *ICLR 2025*] NExT-Mol: 3D Diffusion Meets 1D Language Modeling for 3D Molecule Generation [[paper]](https://arxiv.org/pdf/2502.12638) [[code]](https://github.com/acharkq/NExT-Mol)
+19. [**ChemGuide**, *ICLR 2025*] Chemistry-Inspired Diffusion with Non-Differentiable Guidance [[paper]](https://openreview.net/pdf?id=4dAgG8ma3B) [[code]](https://github.com/A-Chicharito-S/ChemGuide)
+20. [**FMG**, *ICLR 2025*] E(3)-equivariant models cannot learn chirality: Field-based molecular generation [[paper]](https://openreview.net/pdf?id=mXHTifc1Fn) [[code]](https://github.com/Dumitrescu-Alexandru/FMG)
 
 ### Target-based Generation (Structure-based Drug Design)
 
@@ -153,9 +159,9 @@ To facilitate further understanding and exploration of molecular diffusion model
 
 ## Retrosynthesis Prediction and Planning
 
-1. [**DiffAlign**, *arXiv 2024*] Alignment is Key for Applying Diffusion Models to Retrosynthesis [[paper]](https://arxiv.org/pdf/2405.17656)
 1. [**RetroDiff**, *AISTATS 2025*] RetroDiff: Retrosynthesis as Multi-stage Distribution Interpolation [[paper]](https://arxiv.org/pdf/2311.14077)
 1. [**GDiffRetro**, *AAAI 2025*] GDiffRetro: Retrosynthesis Prediction with Dual Graph Enhanced Molecular Representation and Diffusion Generation [[paper]](https://arxiv.org/pdf/2501.08001) [[code]](https://github.com/sunshy-1/GDiffRetro)
+1. [**DiffAlign**, *ICLR 2025*] Equivariant Denoisers Cannot Copy Graphs: Align Your Graph Diffusion Models [[paper]](https://openreview.net/pdf?id=onIro14tHv) [[code]](https://github.com/Aalto-QuML/DiffAlign)
 
 
 
