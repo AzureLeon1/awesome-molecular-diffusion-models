@@ -182,7 +182,7 @@ Please feel free to cite this work if you find it helpful!
   title={Diffusion Models for Molecules: A Survey of Methods and Tasks},
   author={Liang Wang and Chao Song and Zhiyuan Liu and Yu Rong and Qiang Liu and Shu Wu and Liang Wang},
   journal={arXiv},
-  volume={abs/2502.09511}
+  volume={abs/2502.09511},
   year={2025}
 }
 ```
